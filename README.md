@@ -1,6 +1,4 @@
 # CircRNA
- Identification of circular RNAs from RNA-seq data
-
 Pipeline to identify circular RNAs from RNA-seq data.
 
 Dependencies needed:
