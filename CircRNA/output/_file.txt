@@ -1,0 +1,5 @@
+nombre de sn 0
+nombre de t 0
+nombre de r 0
+nombre de new 0
+nombre d'autres 0
