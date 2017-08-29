@@ -1,28 +1,24 @@
 # CircRNA
-Pipeline to identify circular RNAs from RNA-seq data.
+===
 
-Dependencies needed:
 
+<b>Description</b>: Pipeline to identify circular RNAs from RNA-seq data.
+
+<b>Dependencies needed</b>:
 To use this pipeline you need to have Python 2.X with BioPython installed.
-
 Unfortunately, it won't work with Python 3, we need to work on it.
 
-
-How to install:
-
+<b>How to install</b>:
 You only need to downlad the repository, it is ready to use
 
-
-How to run:
-
+<b>How to run</b>:
 We have not yet created an executable.
-So, for now you need to use this command line :
-
+So, for now you need to use this command line
 python prgm/fenetre.py
 
-
-Overview of our pipeline:
-
+<b>Overview of our pipeline</b>
 ![alt text](http://www.lix.polytechnique.fr/Labo/Alice.Heliou/images/overview.png)
+
+<b>License</b>: GNU GPLv3 License
 
 Author : Alice Héliou (alice.heliou@polytechnique.edu)
