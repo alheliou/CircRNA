@@ -1,5 +1,4 @@
 # CircRNA
-===
 
 
 <b>Description</b>: Pipeline to identify circular RNAs from RNA-seq data.
@@ -21,4 +20,4 @@ python prgm/fenetre.py
 
 <b>License</b>: GNU GPLv3 License
 
-Author : Alice Héliou (alice.heliou@polytechnique.edu)
+<b>Author</b>: Alice Héliou (alice.heliou@polytechnique.edu)
